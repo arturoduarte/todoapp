@@ -14,7 +14,8 @@ class TodosController < ApplicationController
 
   # GET /todos/new
   def new
-    @todo = Todo.new
+		@todo = Todo.new
+		# comentario desde la rama master
   end
 
   # GET /todos/1/edit
