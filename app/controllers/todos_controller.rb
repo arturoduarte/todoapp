@@ -5,7 +5,7 @@ class TodosController < ApplicationController
 	# GET /todos.json
 	def index
 		@todos = Todo.all
-		# modificacion de arturo
+		# modificacion de arturo en desarrollo
 	end
 
 	# GET /todos/1
