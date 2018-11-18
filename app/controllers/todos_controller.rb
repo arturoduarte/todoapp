@@ -16,6 +16,7 @@ class TodosController < ApplicationController
   def new
 		@todo = Todo.new
 		# comentario desde la rama master
+		# comentario desde la rama master
   end
 
   # GET /todos/1/edit
