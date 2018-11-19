@@ -4,4 +4,10 @@ class ApplicationController < ActionController::Base
   def pronombre
     
   end
+
+
+
+  def apellido
+    puts "apellido"
+  end
 end
