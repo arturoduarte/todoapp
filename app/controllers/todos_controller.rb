@@ -8,9 +8,10 @@ class TodosController < ApplicationController
 		# modificacion de arturo en desarrollo
 	end
 
-	# GET /todos/1
+  # GET /todos/1
 	# GET /todos/1.json
-	def show
+  def show
+    variable = 'hola'
 	end
 
 	# GET /todos/new
